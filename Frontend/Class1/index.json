@@ -1,0 +1,75 @@
+   
+   
+   {
+    "title": "Kanguva",
+    "description": "Prepare to witness, epic emotions, raw rage, primal courage, ruthless revenge in its purest form.",
+    "thumbnail": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kanguva-et00357490-1711005979.jpg",
+    "bannerImage": "https://assets-in.bmscdn.com/iedb/movies/images/mo…listing/xxlarge/kanguva-et00357490-1711005979.jpg.",
+    "trailerVideo": "https://www.youtube.com/embed/fUekk6TVeq4?enablejsapi=1&modestbranding=1&origin=https%3A%2F%2Fin.bookmyshow.com&playsinline=1&mute=1&fs=1&rel=0&widgetid=1",
+    "rating": "6.5",
+    "genre": "Action",
+    "releaseDate": "14 Nov, 2024",
+    "languages": [ "Hindi", "Telugu", "English"]
+    }
+    
+    
+
+    {
+      "datetime": "2024-11-19T00:00:00.000+00:00",
+      "language": "Hindi",
+      "movie": "673c66430d4de511972d51b9",
+      "theatre": "673c66430d4de511972d51b7",
+      "totalSeats": 6,
+      "availableSeat": 6,
+      "seats": [
+          {
+              "category": "Gold",
+              "price": 500,
+              "arrangements": [[
+                  {
+                      "seatNumber": "1A",
+                      "status": "AVAILABLE"
+                  },
+                  {
+                    "seatNumber": "2A",
+                    "status": "AVAILABLE"
+                },
+
+                  {
+                      "seatNumber": "3A",
+                      "status": "AVAILABLE"
+                  }
+              ]]
+          },
+          {
+              "category": "Silver",
+              "price": 300,
+              "arrangements": [[
+                  {
+                       "seatNumber": "1B",
+                      "status": "AVAILABLE"
+                  },
+                  {
+                       "seatNumber": "2B",
+                      "status": "AVAILABLE"
+                  },
+                  {
+                       "seatNumber": "3B",
+                      "status": "AVAILABLE"
+                  }
+              ]]
+          }
+  
+                 
+  
+              ]
+          }
+      
+    
+    
+    
+    
+    
+    
+    
+    
